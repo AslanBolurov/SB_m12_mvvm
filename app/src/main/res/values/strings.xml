@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SearchField_mvvm</string>
+    <string name="enter_text_for_searching">Enter text for searching</string>
+</resources>
